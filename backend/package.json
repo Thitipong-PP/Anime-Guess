@@ -1,0 +1,15 @@
+{
+  "name": "intro2cedt-final-backend",
+  "version": "1.0.0",
+  "description": "backend for intro2cedt final project",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1"
+  }
+}
